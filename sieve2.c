@@ -1,6 +1,6 @@
 #include "common.h"
 
-int main(int argc, char **argv)
+int main(int argc, char **argv[])
 {
    double elapsedTime;
    int pid;
